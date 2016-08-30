@@ -1,0 +1,3 @@
+C:/Users/antn/Downloads/Exercise1-1-update2/Exercise/Exercise2/compile/CMakeFiles/Tutorial.dir
+C:/Users/antn/Downloads/Exercise1-1-update2/Exercise/Exercise2/compile/CMakeFiles/ALL_BUILD.dir
+C:/Users/antn/Downloads/Exercise1-1-update2/Exercise/Exercise2/compile/CMakeFiles/ZERO_CHECK.dir

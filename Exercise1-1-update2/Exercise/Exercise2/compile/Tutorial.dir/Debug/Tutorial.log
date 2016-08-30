@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/antn/Downloads/Exercise1-1-update2/Exercise/Exercise2/src/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\antn\Downloads\Exercise1-1-update2\Exercise\Exercise2\compile\CMakeFiles\generate.stamp is up-to-date.
+  main.cpp
+  Tutorial.vcxproj -> C:\Users\antn\Downloads\Exercise1-1-update2\Exercise\Exercise2\compile\Debug\Tutorial.exe
+  Tutorial.vcxproj -> C:/Users/antn/Downloads/Exercise1-1-update2/Exercise/Exercise2/compile/Debug/Tutorial.pdb (Full PDB)
